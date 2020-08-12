@@ -1,0 +1,5 @@
+ShopFit-qt usr/bin
+share/pixmaps/ShopFit32.xpm usr/share/pixmaps
+share/pixmaps/ShopFit80.xpm usr/share/pixmaps
+debian/ShopFit-qt.desktop usr/share/applications
+debian/ShopFit-qt.protocol usr/share/kde4/services/

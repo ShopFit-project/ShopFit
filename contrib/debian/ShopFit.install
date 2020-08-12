@@ -1,0 +1,2 @@
+debian/bin/ShopFitd usr/bin
+src/ShopFitd usr/lib/ShopFit

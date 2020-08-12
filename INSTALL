@@ -1,0 +1,9 @@
+Building ShopFit
+
+See doc/readme-qt.rst for instructions on building ShopFit QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ShopFit.
+
+See doc/build-*.txt for instructions on building ShopFitd,
+the intended-for-services, no-graphical-interface, reference
+implementation of ShopFit.

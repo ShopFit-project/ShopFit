@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ShopFit
+Comment=ShopFit P2P Cryptocurrency
+Exec=/usr/bin/ShopFit-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/ShopFit;
+Categories=Office;
+Name[en_US]=ShopFit-qt.desktop
